@@ -11,6 +11,6 @@
 
 4. Carga y uso de servicios de mapas estándar (y no estándar) en QGIS.
 
-5. Almacenamiento, edición, consulta y representación dela información en QGIS.
+5. Almacenamiento, edición, consulta y representación de la información en QGIS.
 
 6. Geoprocesamiento y análisis en QGIS.
